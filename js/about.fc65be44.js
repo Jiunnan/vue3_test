@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkvue_test"]=self["webpackChunkvue_test"]||[]).push([[594],{8357:function(e,t,n){n.r(t),n.d(t,{default:function(){return l}});var u=n(6768),i=n(880);const s={class:"about"},a=(0,u.Lk)("h1",null,"This is an about page",-1),r=[a];var o=(0,u.pM)({__name:"AboutView",setup(e){return(0,u.sV)((()=>{i.A.init({liffId:"1551453274-ANYeG98Q"}).then((()=>{i.A.isLoggedIn()||i.A.login({redirectUri:window.location.href})}))})),(e,t)=>((0,u.uX)(),(0,u.CE)("div",s,r))}});const c=o;var l=c}}]);
-//# sourceMappingURL=about.fc65be44.js.map
